@@ -41,6 +41,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/herondsx/herondsx/output/snake.svg" alt="Snake animation" />
+
 
 ###
