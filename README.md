@@ -7,17 +7,17 @@
 
 ---
 
-### 👨‍💻 Sobre mim
+###  Sobre mim
 
-- 🏭 Trabalho como **Engenheiro de Software** numa empresa de **automação e integração industrial**
-- 🎓 Estudante de **Ciências da Computação** (FEI & USCS)
-- 💻 Desenvolvo aplicações **Full Stack** — do front-end ao back-end
-- 🤖 Experiência com ferramentas industriais, robótica e integração de sistemas
-- 🚀 Apaixonado por tecnologia, software de qualidade e automação
+-  Trabalho como **Engenheiro de Software** numa empresa de **automação e integração industrial**
+-  Estudante de **Ciências da Computação** (FEI)
+-  Desenvolvo aplicações **Full Stack** — do front-end ao back-end
+-  Experiência com ferramentas industriais, robótica e integração de sistemas
+-  Apaixonado por tecnologia, software de qualidade e automação
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 #### 💬 Linguagens
 <div align="left">
