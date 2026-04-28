@@ -1,23 +1,23 @@
 <h1 align="center">Olá, eu sou o Heron 👋</h1>
-<h3 align="center">Software Engineer · Full Stack Developer · Industrial Automation</h3>
+<h3 align="center">Software Engineer · Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+Full+Stack+Dev;Computer+Science+%40+FEI;Industrial+Automation+%7C+Comau;Always+learning+new+things..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+Full+Stack+Dev;Computer+Science+%40+FEI;Software+Development+%40+Comau;Always+learning+new+things..." alt="Typing SVG" />
 </p>
 
 ---
 
-###  Sobre mim
+### 👨‍💻 Sobre mim
 
--  Trabalho como **Engenheiro de Software** numa empresa de **automação e integração industrial**
--  Estudante de **Ciências da Computação** (FEI)
--  Desenvolvo aplicações **Full Stack** — do front-end ao back-end
--  Experiência com ferramentas industriais, robótica e integração de sistemas
--  Apaixonado por tecnologia, software de qualidade e automação
+- 🚀 Atuo como **Desenvolvedor Full Stack** e **Engenheiro de Software**, criando soluções tecnológicas aplicadas ao setor industrial.
+- 🎓 Estudante de **Ciências da Computação** (FEI).
+- 💻 Desenvolvo aplicações completas — do front-end ao back-end.
+- ⚙️ Experiência sólida em integração de sistemas, APIs e modernização de processos na indústria.
+- 💡 Apaixonado por tecnologia, arquitetura de software de qualidade e aprendizado contínuo.
 
 ---
 
-###  Tech Stack
+### 🛠️ Tech Stack
 
 #### 💬 Linguagens
 <div align="left">
