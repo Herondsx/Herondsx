@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer · Full Stack Developer · Industrial Automation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+Full+Stack+Dev;Computer+Science+%40+FEI+%26+USCS;Industrial+Automation+%7C+Comau;Always+learning+new+things..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+Full+Stack+Dev;Computer+Science+%40+FEI;Industrial+Automation+%7C+Comau;Always+learning+new+things..." alt="Typing SVG" />
 </p>
 
 ---
