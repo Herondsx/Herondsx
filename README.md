@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Heron 👋</h1>
+<h1 align="center">Olá, eu sou o Heron </h1>
 <h3 align="center">Software Engineer · Full Stack Developer</h3>
 
 <p align="center">
@@ -7,13 +7,13 @@
 
 ---
 
-### 👨‍💻 Sobre mim
+###  Sobre mim
 
-- 🚀 Atuo como **Desenvolvedor Full Stack** e **Engenheiro de Software**, criando soluções tecnológicas aplicadas ao setor industrial.
-- 🎓 Estudante de **Ciências da Computação** (FEI).
-- 💻 Desenvolvo aplicações completas — do front-end ao back-end.
-- ⚙️ Experiência sólida em integração de sistemas, APIs e modernização de processos na indústria.
-- 💡 Apaixonado por tecnologia, arquitetura de software de qualidade e aprendizado contínuo.
+-  Atuo como **Desenvolvedor Full Stack** e **Engenheiro de Software**, criando soluções tecnológicas aplicadas ao setor industrial.
+-  Estudante de **Ciências da Computação** (FEI).
+-  Desenvolvo aplicações completas — do front-end ao back-end.
+-  Experiência sólida em integração de sistemas, APIs e modernização de processos na indústria.
+-  Apaixonado por tecnologia, arquitetura de software de qualidade e aprendizado contínuo.
 
 ---
 
